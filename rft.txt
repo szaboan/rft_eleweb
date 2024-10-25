@@ -1,0 +1,29 @@
+RTF:
+
+követelmény:
+- csapat munka (Orosz Tomi)
+- Fiktív alkalmazás tervezés webes 2-3 fős csoport
+- követelményjegyzék készítése
+- uml diagramm
+- szekvencia diagramm (idősík, és userek)
+- use case esetek 2-3 app.diagram.net
+- rendszerterv
+- vázlat, mockup, screenshot
+- github
+
+- verziókezelés
+- tesztékszítő eszköz
+- https://docs.google.com/spreadsheets/d/1x2wN0ZLXTC7S-uwtBNaAiGtJOeuWe7hlEUDKJPFU-t4/edit?pli=1&gid=2136255972#gid=2136255972
+
+
+IOT:
+
+Követelmény:
+- hőmérő progi
+- aliexpressz rendel
+- webes json leszed, megjelenít
+- doksizás
+- csapatmunka (Liso Misi)
+ 
+
+
