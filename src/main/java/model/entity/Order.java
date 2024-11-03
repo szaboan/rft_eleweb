@@ -1,19 +1,19 @@
-package entity;
+package model.entity;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
 public class Order {
-    private Long id;                     // Egyedi azonosító
+    private int id;                     // Egyedi azonosító
     private Customer customer;           // Rendelő ügyfél (kapcsolat a Customer osztállyal)
     private LocalDateTime orderDate;     // Rendelés dátuma és ideje
     private double totalAmount;          // Teljes összeg
     private String status;               // Rendelés állapota (pl. feldolgozás alatt, szállítás alatt, kézbesítve)
     private List<Product> products;      // Rendeléshez tartozó termékek listája
-	public Long getId() {
+	public int getId() {
 		return id;
 	}
-	public void setId(Long id) {
+	public void setId(int id) {
 		this.id = id;
 	}
 	public Customer getCustomer() {

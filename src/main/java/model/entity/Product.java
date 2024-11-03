@@ -1,4 +1,4 @@
-package entity;
+package model.entity;
 
 public class Product {
 	private Long id;               // Egyedi azonosító
@@ -10,8 +10,8 @@ public class Product {
 	public Long getId() {
 		return id;
 	}
-	public void setId(Long id) {
-		this.id = id;
+	public void setId(int id) {
+		this.id = (long) id;
 	}
 	public String getName() {
 		return name;

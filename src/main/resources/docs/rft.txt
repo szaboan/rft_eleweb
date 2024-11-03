@@ -15,15 +15,16 @@ követelmény:
 - tesztékszítő eszköz
 - https://docs.google.com/spreadsheets/d/1x2wN0ZLXTC7S-uwtBNaAiGtJOeuWe7hlEUDKJPFU-t4/edit?pli=1&gid=2136255972#gid=2136255972
 
+kész - (SZA) -> leirás, követelmények csoportosítva, min 10 db.használhatjátok a user story és az acceptance criteria formulákat a leíráshoz
+kész - (SZA) -> UML: diagramok készítése:  1 Use Case és 
+     - (SZA) -> UML: 1 osztálydiagram, ezenkívül egy 
+     - (TD)  -> UML: interakciós diagram
+     - (TD)  -> UI: tervezés: wireframe framework - 3 oldal
+     - (TD)  -> UI: prototípus 3 oldal
+     - (TD)  -> UI: mockup készítése, legalább 3 oldalnak
 
-IOT:
-
-Követelmény:
-- hőmérő progi
-- aliexpressz rendel
-- webes json leszed, megjelenít
-- doksizás
-- csapatmunka (Liso Misi)
- 
-
-
+kész - (SZA) -> Készítsétek el a tesztprojektet (forráskódot) a saját gépetek fejlesztői környezetében, 
+kész - (SZA) -> készítsetek rá lokális git repót, majd kapcsoljátok össze a github repositoryjával! 
+	 - (SZA) -> Dokumentáljátok ennek menetét!
+kész - (SZA) -> Készítsetek tesztelendő (fiktív is lehet) metódust a projekthez, amihez írjatok legalább 3 unittesztet!
+kész - (SZA) -> Készítsetek javadoc fejlesztői dokumentációra példát a forráskódban, majd generáljátok le a belőle készült dokumentációs oldalt.
