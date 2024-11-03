@@ -25,6 +25,6 @@ kész - (SZA) -> UML: diagramok készítése:  1 Use Case és
 
 kész - (SZA) -> Készítsétek el a tesztprojektet (forráskódot) a saját gépetek fejlesztői környezetében, 
 kész - (SZA) -> készítsetek rá lokális git repót, majd kapcsoljátok össze a github repositoryjával! 
-	 - (SZA) -> Dokumentáljátok ennek menetét!
+kész - (SZA) -> Dokumentáljátok ennek menetét!
 kész - (SZA) -> Készítsetek tesztelendő (fiktív is lehet) metódust a projekthez, amihez írjatok legalább 3 unittesztet!
 kész - (SZA) -> Készítsetek javadoc fejlesztői dokumentációra példát a forráskódban, majd generáljátok le a belőle készült dokumentációs oldalt.
