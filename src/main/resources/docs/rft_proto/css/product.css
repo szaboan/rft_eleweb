@@ -1,0 +1,45 @@
+/*set colors*/
+:root
+{
+    --bg-color: #d8dbcb;
+    --main-color: #4dd56f;
+    --secondary-color: #4976ef;
+    --danger-color: #e71919;
+    --attantion-color: #e87110;
+    --black-color: #141414;
+    --white-color:#f1f1f1;
+}
+
+.product-wrapper{
+    width: 70vw;
+    margin: 60px auto;
+    margin-bottom: 120px;
+    padding: 25px;
+    background-color: var(--white-color);
+    display: flex;
+    justify-content: space-around;
+
+    border-radius: 10px;
+}
+
+.product-wrapper .desc{
+    padding: 25px;
+    color: var(--black-color);
+}
+
+.product-wrapper .desc .name{
+    margin-bottom: 40px;
+}
+
+select{
+    padding: 10px;
+    font-size: 20px;
+    margin: 20px;
+}
+
+button{
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+    padding: 15px;
+    border:none;
+}

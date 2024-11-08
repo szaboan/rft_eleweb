@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 25px;
+    padding-bottom: 500px;
+    background-image: url(../img/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

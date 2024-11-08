@@ -1,0 +1,43 @@
+/*set colors*/
+:root
+{
+    --bg-color: #d8dbcb;
+    --main-color: #4dd56f;
+    --secondary-color: #4976ef;
+    --danger-color: #e71919;
+    --attantion-color: #e87110;
+    --black-color: #141414;
+    --white-color:#f1f1f1;
+}
+
+.products{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 40px;
+    gap:25px;
+    margin-bottom: 100px;
+}
+
+.products a{
+    text-decoration: none;
+    color: var(--black-color);
+}
+
+.products a .prod-holder{
+    background-color: var(--white-color);
+    padding: 25px;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.products a .prod-holder img{
+    width: 100%;
+}
+
+.products a .prod-holder button{
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+    padding: 15px;
+    border:none;
+}
