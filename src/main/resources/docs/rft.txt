@@ -19,8 +19,8 @@ kész - (SZA) -> leirás, követelmények csoportosítva, min 10 db.használhatj
 kész - (SZA) -> UML: diagramok készítése:  1 Use Case és 
      - (SZA) -> UML: 1 osztálydiagram, ezenkívül egy 
      - (TD)  -> UML: interakciós diagram
-     - (TD)  -> UI: tervezés: wireframe framework - 3 oldal
-     - (TD)  -> UI: prototípus 3 oldal
+kész - (TD)  -> UI: tervezés: wireframe framework - 3 oldal
+kész - (TD)  -> UI: prototípus 3 oldal
      - (TD)  -> UI: mockup készítése, legalább 3 oldalnak
 
 kész - (SZA) -> Készítsétek el a tesztprojektet (forráskódot) a saját gépetek fejlesztői környezetében, 
