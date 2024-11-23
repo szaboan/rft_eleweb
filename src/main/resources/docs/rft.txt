@@ -18,7 +18,7 @@ követelmény:
 kész - (SZA) -> leirás, követelmények csoportosítva, min 10 db.használhatjátok a user story és az acceptance criteria formulákat a leíráshoz
 kész - (SZA) -> UML: diagramok készítése:  1 Use Case és 
 kész - (SZA) -> UML: 1 osztálydiagram, ezenkívül egy 
-     - (TD)  -> UML: interakciós diagram
+kész - (TD)  -> UML: interakciós diagram
 kész - (TD)  -> UI: tervezés: wireframe framework - 3 oldal
 kész - (TD)  -> UI: prototípus 3 oldal
 kész - (TD)  -> UI: mockup készítése, legalább 3 oldalnak
